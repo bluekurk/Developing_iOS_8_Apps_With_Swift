@@ -5,29 +5,13 @@ iTunes U 课程地址：[iTunes U/Developing iOS 8 Apps Swift](https://itunes.ap
 
 CS193P 课程地址：[CS193P iPhone Application Development](http://web.stanford.edu/class/cs193p/cgi-bin/drupal/)
 
+### 相关链接
+
+[iTunes U/Developing iOS 9 Apps Swift](https://itunes.apple.com/cn/course/developing-ios-9-apps-swift/id1104579961)
+
 ### 翻译进度
 
-序号 | 翻译进度 | 初次校对进度
-:----------- | :-----------: | :-----------:
-1. Logistics, iOS 8 Overview | 完成 | 完成
-2. More Xcode and Swift, MVC | 完成 | 完成
-3. Applying MVC | 完成 | 完成
-4. More Swift and Foundation Frameworks | 完成 | 完成 
-5. Objective-C Compatibility, Property List, Views | 完成 | 完成 
-6. Protocols and Delegation, Gestures | 完成 | 完成 5/6
-7. Multiple MVCs | 完成 | 完成
-8. View Controller Lifecycle, Autolayout | 完成 | 未开始
-9. Scroll View and Multithreading | 完成 | 未开始
-10. Table View| 完成 | 未开始
-11. Unwind Segues, Alerts, Timers, View Animation | 完成 | 未开始
-12. Dynamic Animation | 进行中 | N/A
-13. Application Lifecycle and Core Motion | 完成 | 未开始
-14. Core Location and MapKit | 完成 | 未开始
-15. Modal Segues | 完成 | 未开始
-16. Camera, Persistence, and Embed Segues | 进行中 | N/A
-17. Internationalization and Settings | 完成 | 未开始
-
-注：更新时间：北京时间 2015 年 06 月 12 日
+翻译已全部完成，如果你发现字幕有哪些不妥，欢迎提 Pull Request。
 
 ### 校对规则
 
@@ -35,9 +19,7 @@ CS193P 课程地址：[CS193P iPhone Application Development](http://web.stanfor
 
 ### 字幕下载
 
-因为当前字幕正在更新中，建议使用 Git 保持相关数据更新。
-
-也可以直接点击[项目 Zip 包](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift/archive/master.zip)进行全部已有字幕的下载（可能包含翻译中和未开始翻译的字幕）。
+直接点击[项目 Zip 包](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift/archive/master.zip)进行全部已有字幕的下载。
 
 ### 字幕的使用
 
@@ -45,7 +27,7 @@ CS193P 课程地址：[CS193P iPhone Application Development](http://web.stanfor
 
 ### 视频及课件第三方网盘下载
 
-[百度网盘](http://pan.baidu.com/s/1i3glp2l)
+[百度网盘](http://pan.baidu.com/s/1pLL688F)
 
 ### 联系我们
 
